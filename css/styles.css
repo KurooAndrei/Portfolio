@@ -1,0 +1,78 @@
+/* #06113C #FF8C32 #DDDDDD #EEEEEE */
+/* #06113C #FF8C32 #DDDDDD #EEEEEE */
+/* #06113C #FF8C32 #DDDDDD #EEEEEE */
+/* #06113C #FF8C32 #DDDDDD #EEEEEE */
+/* #06113C #FF8C32 #DDDDDD #EEEEEE */
+/* #06113C #FF8C32 #DDDDDD #EEEEEE */
+/* #06113C #FF8C32 #DDDDDD #EEEEEE */
+/* #06113C #FF8C32 #DDDDDD #EEEEEE */
+
+
+body{
+  background-color: #051863;
+  color: #DDDDDD;
+}
+
+
+#title-image{
+  display: block;
+  max-width: 250px;
+  max-height: 300px;
+  margin: auto 100px;
+}
+
+#Education{
+  background-color: #061d78;
+  color: #EEEEEE;
+}
+
+#footer{
+  background-color: #061d78;
+  color: #EEEEEE;
+  padding-bottom: 5px;
+}
+
+#Hobbies{
+    background-color: #061d78;
+    color: #EEEEEE;
+}
+h2 {
+  font-family: serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+
+#Skills {
+  text-align: center;
+  /* background-color: #061d78;
+  color: #EEEEEE; */
+}
+
+.Skills-image{
+  width: 40%;
+  margin: 20px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+
+
+
+
+
+/* 1  albastru
+2
+3 albastru
+4
+5 albastru
+6
+7 albastru */
